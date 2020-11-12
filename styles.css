@@ -1,10 +1,10 @@
-.logo{width:8%;
-        padding:10;
+.logo{width:25%;
         border:10;}
 nav{font-family: 'Raleway', sans-serif;
     font-size:25px;
     padding-left:15;
     padding-bottom: 25;
+    float: left;
 }
 h2,p{font-family: 'Raleway', sans-serif;
      }
